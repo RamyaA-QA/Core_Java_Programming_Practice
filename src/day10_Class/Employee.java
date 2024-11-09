@@ -9,8 +9,6 @@ public class Employee {
 		String job;
 		int sal;
 		
-		//Methods
-		
 		void display()
 		{
 			System.out.println(eid);
